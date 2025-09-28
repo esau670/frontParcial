@@ -1,4 +1,4 @@
-const API_URL = "https://practica2-mewx.onrender.com"; // tu backend en Render
+const API_URL = "https://practica2-mqvp.onrender.com/"; // tu backend en Render
 let clienteId = null;
 
 // Registrar cliente
